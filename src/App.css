@@ -10,7 +10,7 @@ body{
   padding: 20px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 10vh
+  margin-top: 5vh
 }
 
 .nav-item-right{
@@ -19,12 +19,12 @@ body{
 }
 
 input{
-  height: 60px !important;
+  height: 55px !important;
  
 }
 
 button{
-  height: 60px !important;
+  height: 55px !important;
 }
 
 .lead{

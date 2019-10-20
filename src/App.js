@@ -4,12 +4,14 @@ import SignUpContainer from './components/SignUp/SignUpContainer';
 import SignInContainer from './components/SignIn/SignInContainer'
 import ForgotPasswordContainer from './components/ForgotPassword/ForgotPasswordContainer';
 import Nav from './components/Nav/Nav'
+import Title from './components/Title'
 
 function App() {
   return (
     <div className="main">
     <div className="App">
   <div className="card bg-transparent border-0">
+    <Title />
   <div class="card-header bg-transparent border-0">
        <Nav />
        </div>
