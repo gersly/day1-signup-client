@@ -4,7 +4,7 @@ export default class SignInForm extends Component {
     render() {
         return (
             <div>
-                <h2>Sign In</h2>
+                <h2 className="text-white">Sign In</h2>
             <form>
                 <input
                 type="text"
