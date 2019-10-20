@@ -10,19 +10,19 @@ export default class SignUpForm extends Component {
                 type="text"
                 placeholder="Email"
                 className="form-control form-control-lg
-                my-3"
+                my-2"
                 />
                 <input
                 type="password"
                 placeholder="Password"
                 className="form-control form-control-lg
-                my-3"
+                my-2"
                 />
                 <input 
                 type="password" 
                 placeholder="Repeat Password"
                 className="form-control form-control-lg
-                my-3"
+                my-2"
                 />
                 <button
                 type="submit"
