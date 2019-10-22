@@ -6,6 +6,7 @@ import ForgotPasswordContainer from './components/ForgotPassword/ForgotPasswordC
 import Nav from './components/Nav/Nav'
 import Title from './components/Title'
 
+
 function App() {
   return (
     <div className="main">
@@ -31,6 +32,7 @@ function App() {
         </div>
       </div>
       </div>
+    
       </div>
     </div>
   );
