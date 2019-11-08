@@ -21,8 +21,10 @@ This app uses Bootstrap and FontAwesome
 1. FontAwesome: `https://kit.fontawesome.com/a076d05399.js`
 
 
-## Screenshot 
+## Screenshots
 
-![](src/signup.png)
+![](src/screenshot-1.png)
+
+![](src/screenshot-2.png)
 
 
