@@ -17,8 +17,12 @@ Components are in a unique folder inside of the `./components` folder
 
 This app uses Bootstrap and FontAwesome
 
-Bootstrap : `https://getbootstrap.com/docs/4.1/getting-started/introduction/`
-FontAwesome: `https://kit.fontawesome.com/a076d05399.js`
+1. Bootstrap : `https://getbootstrap.com/docs/4.1/getting-started/introduction/`
+1. FontAwesome: `https://kit.fontawesome.com/a076d05399.js`
 
+
+## Screenshot 
+
+![](src/signup.png)
 
 
